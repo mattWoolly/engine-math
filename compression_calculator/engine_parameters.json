@@ -1,0 +1,12 @@
+{
+    "bore_diameter": 4.030,
+    "stroke_length": 3.98,
+    "combustion_chamber_volume": 73.0,
+    "piston_dome_volume": 10.0,
+    "gasket_thickness": 0.04,
+    "gasket_diameter": 4.165,
+    "deck_height": 0.00,
+    "cylinder_height": 10.0,
+    "connecting_rod_length": 6.21,
+    "number_of_cylinders": 6
+}
